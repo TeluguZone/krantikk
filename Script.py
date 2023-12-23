@@ -28,9 +28,9 @@ class script(object):
 
 ⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
 
-<code>/batch https://t.me/TeluguZone0 https://t.me/TeluguZone0</code>
+<code>/batch https://t.me/Orey_Chaari_bot https://t.me/Orey_Chaari_bot</code>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/TeluguZone0><b>Fucker</b></a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/BSRIPS><b>BSRIPS</b></a>"""
     
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
