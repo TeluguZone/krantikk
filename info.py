@@ -59,15 +59,15 @@ G_FILTER = is_enabled(environ.get("G_FILTER", "True"), True)
 BUTTON_LOCK = is_enabled(environ.get("BUTTON_LOCK", "True"), True)
 
 # url shortner
-SHORT_URL = environ.get("SHORT_URL",'')
-SHORT_API = environ.get("SHORT_API",'')
+SHORT_URL = environ.get("SHORT_URL",'https://atglinks.com')
+SHORT_API = environ.get("SHORT_API",'d55fdff25071b1d5137112106f79a39d27230f25')
 
 # Others
 IMDB_DELET_TIME = int(environ.get('IMDB_DELET_TIME', "300"))
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', 0))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'mkn_bots_updates')
 P_TTI_SHOW_OFF = is_enabled(environ.get('P_TTI_SHOW_OFF', "True"), True)
-PM_IMDB = is_enabled(environ.get('PM_IMDB', "True"), True)
+PM_IMDB = is_enabled(environ.get('PM_IMDB', "False"), False)
 IMDB = is_enabled(environ.get('IMDB', "False"), False)
 SINGLE_BUTTON = is_enabled(environ.get('SINGLE_BUTTON', "True"), True)
 CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", "{file_name}")
